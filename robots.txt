@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rinenonc.github.io/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/app/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/assets/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/css/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/includes/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/item/sitemap.html.gz
+Sitemap: https://rinenonc.github.io/src/sitemap.html.gz
